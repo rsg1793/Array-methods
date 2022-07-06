@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(skyblue,orange,pink,green);
+}
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight:lighter;
+    font-style: italic;
+
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+}
